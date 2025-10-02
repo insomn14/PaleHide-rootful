@@ -1,0 +1,7 @@
+_HiStOrY_V2_
+setenv\040com.apple.System.boot-nonce\04055d0d9977e6e0c145fcdc24e8af2dfa715e77417
+saveenv
+reboot\040recovery
+setenv\040com.apple.System.boot-nonce\04055d0d9977e6e0c145fcdc24e8af2dfa715e77417
+saveenv
+reboot\040recovery
