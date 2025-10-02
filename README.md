@@ -10,5 +10,5 @@ Prepared IPhone Devices and Plug into your Computer/Laptop with USB to Lightning
 ```
 ./palehide-rootful.sh
 ```
-3. Install the `Jailbreak.tipa` to your Devices
+3. Install the `Jailbreak.tipa` (using TrollStore installed via Sileo) to your Devices
 5. Open Dopamine (RootHide) on your IPhone Device, then run Jailbroken.
