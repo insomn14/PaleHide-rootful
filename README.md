@@ -8,7 +8,7 @@
 ## Phase 1: Creating the Rootful Filesystem (FakeFS)
 1. **Enter DFU Mode:** Put your iPhone into DFU (Device Firmware Update) Mode. (You will need to follow the on-screen instructions from palera1n to do this.)
 
-2. **Setup FakeFS (⚠️ WARNING: This will erase all data on your device):**
+2. **Setup FakeFS:**
 Run this command to create the necessary rootful partition.
 
 ```Bash
